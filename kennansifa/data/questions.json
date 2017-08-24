@@ -1,0 +1,222 @@
+{
+    "state": 0,
+    "result": [
+        {
+            "questionTitle": "",
+            "questionText": "你觉得最适合形容柯南的话语是啥？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "身体虽然变小了，头脑还是原来的名侦探",
+               "score":1
+            },{
+                "questionSelectItemText": "死神小学生",
+                "score":2
+            },{
+                "questionSelectItemText": "真相永远只有一个",
+                "score":3
+            }],
+            "answer":""
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你现在还在继续看《柯南》的原因是啥呢？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "其实剧情还算比较有趣，所以能够看下去",
+               "score":1
+            },{
+                "questionSelectItemText": "要不是为了我喜欢的CP，谁还有兴趣继续追啊",
+                "score":2
+            },{
+                "questionSelectItemText": "也就是一种习惯，每年看看剧场版罢了",
+                "score":3
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "如果你变成了柯南，你第一时间会做什么？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "忽悠小兰姐姐跟自己洗澡",
+               "score":2
+            },{
+                "questionSelectItemText": "利用自己之前看过剧情的上帝视角，联系靠谱的势力搞死黑衣组织",
+                "score":1
+            },{
+                "questionSelectItemText": "继续当小学生，每天享受扮猪吃老虎的乐趣",
+                "score":3
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你怎么看现在《柯南》的日常案件呢？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "槽点太多了，基本上就是扫一眼而已",
+               "score":1
+            },{
+                "questionSelectItemText": "还是会一如既往分析到底谁是凶手，这样挺有趣",
+                "score":3
+            },{
+                "questionSelectItemText": "怎么看？不看了呗",
+                "score":2
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "如果柯南出现在了你的面前，你会？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "特别兴奋，赶紧请他给自己签名",
+               "score":1
+            },{
+                "questionSelectItemText": "有多远跑多远，否则可能小命不保",
+                "score":3
+            },{
+                "questionSelectItemText": "以揭穿他的身份作为威胁，让他帮自己做很多有趣的事情",
+                "score":2
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你怎么看每次真相揭晓之后，犯人在那儿哭诉犯罪动机的表现？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "同情，其实如果可以，他们也不想这样的",
+               "score":3
+            },{
+                "questionSelectItemText": "冷笑，真那么善良的话，为啥犯罪之后不自首呢",
+                "score":1
+            },{
+                "questionSelectItemText": "太过于套路了，根本没办法引发共鸣",
+                "score":2
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "如果小兰后来知道柯南就是新一，你认为小兰的态度是？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "惊讶，但是很快释然，毕竟这才是最能接受的答案",
+               "score":3
+            },{
+                "questionSelectItemText": "立刻抱住柯南哭个没完，甚至于直接亲下去",
+                "score":1
+            },{
+                "questionSelectItemText": "想起来自己跟柯南洗过澡，柯南卒",
+                "score":2
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你觉得毛利小五郎到底是不是在装傻？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "不是，因为他的水平确实不算高，否则不至于一直那么烂",
+               "score":3
+            },{
+                "questionSelectItemText": "不好说，感觉智商水平不太稳定",
+                "score":1
+            },{
+                "questionSelectItemText": "是，正常人怎么会察觉不到自己经常晕倒？肯定是装傻的",
+                "score":2
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你怎么看现在《柯南》剧场版总是用炸弹的做法？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "挺好的，至少能够让场面看起来更夸张",
+               "score":3
+            },{
+                "questionSelectItemText": "是不是傻，是个人都能弄到炸弹，日本人还能过日子吗",
+                "score":1
+            },{
+                "questionSelectItemText": "有些剧情可以接受，有些就是不合理了",
+                "score":2
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "如果你是服部平次，你会跟柯南当好基友吗？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "会，毕竟这是一个能够整天在一起哈皮的兄弟",
+               "score":2
+            },{
+                "questionSelectItemText": "不会，毕竟两人是竞争对手的关系，你见过谁家竞争对手整天嘻嘻哈哈的",
+                "score":1
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你还记得当年《柯南》吸引自己的原因吗？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "虽然案件很吓人，不过真的非常精彩",
+               "score":2
+            },{
+                "questionSelectItemText": "角色很经典，柯南啦、小兰姐姐等等，都很棒",
+                "score":1
+            },{
+                "questionSelectItemText": "因为大家都在看，所以我也看了",
+                "score":3
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你觉得柯南身上最大的槽点是什么？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "明明是个名侦探，却拥有着特工一样的技能",
+               "score":2
+            },{
+                "questionSelectItemText": "每次破案的时候，都能让周围所有人智商下降90%",
+                "score":1
+            },{
+                "questionSelectItemText": "经常表现得那么有存在感，居然没被黑衣组织盯上",
+                "score":3
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "琴酒真的是一个很可怜的角色吗？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "是的，组织里全是不干活的卧底，自己痴迷的雪莉还跟死神小学生跑了",
+               "score":2
+            },{
+                "questionSelectItemText": "不是，他可怜的话，被他杀死的人难道不可怜吗",
+                "score":1
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你认为《柯南》会在10年内完结吗？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "会，现在基本上已经进入后期了",
+               "score":1
+            },{
+                "questionSelectItemText": "不会，这不符合商业价值的最大化",
+                "score":2
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你认为《柯南》最有可能的结局是什么？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "在柯南的带领下捣毁黑衣组织，变回新一跟小兰结婚",
+               "score":1
+            },{
+                "questionSelectItemText": "虽然黑衣组织毁灭了，但是柯南依然没有变回去",
+                "score":2
+            },{
+                "questionSelectItemText": "柯南在最后的决战中丧生",
+                "score":3
+            }],
+            "answer":" "
+        }
+    ],
+    "message": {}
+}

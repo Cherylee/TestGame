@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="email=no" />
+    <title>你的二次元老婆是谁？</title>
+    <link rel="stylesheet" href="./css/response.css">
+    <link rel="stylesheet" href="./css/swiper.min.css">
+    <link rel="stylesheet" href="./css/character-test.css" />
+
+</head>
+
+<body>
+    <div class="box">
+            <div class="title_img">
+                    <img src="image/title.png">
+                </div>
+    <!-- Swiper -->
+    <div class="swiper-container" id="app">
+        <div class="swiper-bg" data-swiper-parallax="-30%" data-swiper-parallax-duration="1000"></div>
+        <div class="swiper-wrapper">
+            <div class="swiper-slide stop-swiping" v-for="(item,index_swipe) in questions">
+              
+                <section>
+                    <h4>问题<span v-text="index_swipe+1"></span>：<span v-text="item.questionText"></span></h4> 
+                    <br>
+                    <div class="tabs tabs-1" v-for="(selectItem,index) in item.questionSelectItem" v-bind:class="{active:index==Anwsers[index_swipe]}">
+                        <label>
+                            <input @click="labelClick(index,index_swipe,selectItem.slideTo)"  type="radio" name="q1" class="q1" value="a"> <span v-text="index+1"></span>.<span v-text="selectItem.questionSelectItemText"></span>
+                        </label>
+                    </div>
+                </section>
+            </div>
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination" id="swiper-pagination" style="display:none"></div>
+    </div>
+    </div>
+</body>
+<script src="./js/swiper.min.js"></script>
+<script src="./js/vue.js"></script>
+<script src="./js/axios.min.js"></script>
+<script src="./js/myvue_.js"></script>
+
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="email=no" />
+    <title>你在柯南里的死法？</title>
+    <link rel="stylesheet" href="./css/response.css">
+    <link rel="stylesheet" href="./css/swiper.min.css">
+    <link rel="stylesheet" href="./css/character-test.css" />
+    <link rel="stylesheet" href="./css/result.css" />
+</head>
+
+<body>
+    <div id="app">
+        <img src="image/585_2_01.jpg" width="100%">
+        <div class="result">
+            <img :src="imgSrc">
+            <p class="content"><img :src="TitleimgSrc"><span v-text="resultText"></span></p>        
+        </div>
+        <div class="btnBox">
+            <a class="btn btn_dark" href="demo.html"><span v-if="false">再测一次</span></a>
+            <a class="btn btn_priary" @click="ClickFlag=true"><span v-if="false">炫耀一下</span></a>
+        </div>
+         <!---底部推荐-->
+         <div class="recommend">
+            <img src="image/585_2_15.jpg" width="100%">
+            <a :href="ahref">
+            <img :src="recommendImg" class="recommendImg">
+            </a>
+        </div>
+        <!---分享-->
+        <div class="Mongolialayer share" v-if="ClickFlag" @click="ClickFlag=false">
+            <img src="image/sharebg.png">
+        </div>
+    </div>
+</body>
+<script src="./js/vue.js"></script>
+<script src="./js/axios.min.js"></script>
+<script src="./js/result.js"></script>
+</html>

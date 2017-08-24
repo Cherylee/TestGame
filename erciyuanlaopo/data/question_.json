@@ -1,0 +1,204 @@
+{
+    "state": 0,
+    "result": [
+        {
+            "questionTitle": "",
+            "questionText": "对于青梅竹马跟天降两种属性，你更加喜欢哪一种呢？",
+            "questionSelectItem":[{
+               "questionSelectItemText": "青梅竹马，还是熟人下手比较方便一点，嘿嘿",
+               "slideTo":2
+            },{
+                "questionSelectItemText": "天降啊，青梅竹马看腻了没新意",
+                "slideTo":3
+            }],
+            "answer":""
+        },
+        {
+            "questionTitle": "",
+            "questionText": "当你在路边看到一个妹子很困扰的表情，你会?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "主动上前询问她是不是遇到了困难",
+               "slideTo":4
+            },{
+                "questionSelectItemText": "关我屁事，直接离开",
+                "slideTo":5
+            },{
+                "questionSelectItemText": "偷拍发微博：今天路上拍到的妹子，几分？",
+                "slideTo":"A"
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "当有一个你并不喜欢的妹子总是缠着你的时候，你会?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "觉得她好烦，见到她就赶紧躲起来",
+               "slideTo":"B"
+            },{
+                "questionSelectItemText": "妹子肯定是对自己有好感的，尝试接触以下",
+                "slideTo":5
+            },{
+                "questionSelectItemText": "直接回绝妹子：你不要再纠缠我了",
+                "slideTo":6
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你是否相信高中时期的爱情呢?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "相信，那种不用考虑物质条件的感情最纯粹了",
+               "slideTo":5
+            },{
+                "questionSelectItemText": "不相信，因为最终还是会分手的",
+                "slideTo":"C"
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你是否有着在三次元开后宫的妄想?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "是的，三次元如果能开后宫，那该多美好啊",
+               "slideTo":"D"
+            },{
+                "questionSelectItemText": "不是，一个妹子我都搞不定，别说一群了",
+                "slideTo":9
+            },{
+                "questionSelectItemText": "说不好，因为我从来没有谈过恋爱",
+                "slideTo":8
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你是否曾经想过，跟心爱的人组建幸福的家庭?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "是的，那将会是多么美好的事情啊",
+               "slideTo":7
+            },{
+                "questionSelectItemText": "不是，我这个人更加渴望刺激的生活，不追求安稳",
+                "slideTo":"E"
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "在面对妹子的时候，你觉得自己是抖S还是抖M?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "抖S，我就喜欢妹子屈服于自己的表情",
+               "slideTo":8
+            },{
+                "questionSelectItemText": "抖M，如果妹子能整天对我用毒舌，那我该多兴奋啊！",
+                "slideTo":"F"
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你是否经常被人当成男闺蜜?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "是的，好多妹子都跟我说心里话，但都不跟我谈恋爱",
+               "slideTo":9
+            },{
+                "questionSelectItemText": "不是，我觉得男闺蜜就是一种贬义词",
+                "slideTo":15
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你觉得女朋友跟老婆是否有什么区别?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "是的，女朋友注重感情，老婆注重责任",
+               "slideTo":10
+            },{
+                "questionSelectItemText": "不是，老婆最初也是女朋友啊",
+                "slideTo":13
+            },{
+                "questionSelectItemText": "说不清，反正我也没女朋友跟老婆",
+                "slideTo":11
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "如果你的女朋友整天傻乎乎的，但是对你很忠诚，你会?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "受不了这样的傻妹子，果断分手",
+               "slideTo":12
+            },{
+                "questionSelectItemText": "这样难道不是最好的选择吗",
+                "slideTo":13
+            },{
+                "questionSelectItemText": "这个还是要看脸来决定的",
+                "slideTo":14
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "当你决定要出远门打拼事业，你希望陪在身边的妹子是?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "能够成为贤内助的那种类型，让我不用为了琐事烦恼",
+               "slideTo":"G"
+            },{
+                "questionSelectItemText": "能够在事业上给我提供帮助的",
+                "slideTo":13
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "当你回到家中的时候，你希望妻子是?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "已经做好了美味的食物",
+               "slideTo":14
+            },{
+                "questionSelectItemText": "穿着性感内衣、一副在诱惑你的表情",
+                "slideTo":"H"
+            },{
+                "questionSelectItemText": "赶紧洗手吃饭！都几点了！",
+                "slideTo":15
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "如果你要找女朋友，你是选择比较文静的，还是非常活泼的?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "文静的，女孩子太闹了不好",
+               "slideTo":"I"
+            },{
+                "questionSelectItemText": "活泼的，这样才能开开心心地玩啊",
+                "slideTo":15
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "如果你的女朋友很受女孩子欢迎，你会?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "多好，我攻略了无数妹子的梦中情人",
+               "slideTo":"B"
+            },{
+                "questionSelectItemText": "我还是比较保守的，会怀疑女朋友的行取消",
+                "slideTo":"G"
+            }],
+            "answer":" "
+        },
+        {
+            "questionTitle": "",
+            "questionText": "你是否希望自己能找到一个具有二次元属性的女朋友?",
+            "questionSelectItem":[{
+               "questionSelectItemText": "是的，这样才不辜负动漫迷的名号",
+               "slideTo":"J"
+            },{
+                "questionSelectItemText": "不是，次元的差异有明显区别",
+                "slideTo":"C"
+            }],
+            "answer":" "
+        }
+    ],
+    "message": {}
+}

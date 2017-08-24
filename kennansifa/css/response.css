@@ -1,0 +1,262 @@
+
+@media (min-width:720px) {
+    html {
+        font-size: 100px;
+    }
+}
+@media (min-width:711px) and (max-width:719px) {
+    html {
+        font-size: 99.3px;
+    }
+}
+@media (min-width:701px) and (max-width:710px) {
+    html {
+        font-size: 97.91px;
+    }
+}
+@media (min-width:691px) and (max-width:700px) {
+    html {
+        font-size: 23.16px;
+    }
+}
+@media (min-width:681px) and (max-width:690px) {
+    html {
+        font-size: 96.52px;
+    }
+}
+@media (min-width:671px) and (max-width:680px) {
+    html {
+        font-size: 93.75px;
+    }
+}
+@media (min-width:661px) and (max-width:670px) {
+    html {
+        font-size: 92.36px;
+    }
+}
+@media (min-width:651px) and (max-width:660px) {
+    html {
+        font-size: 90.97px;
+    }
+}
+@media (min-width:640px) and (max-width:650px) {
+    html {
+        font-size: 89.58px;
+    }
+}
+
+@media (min-width:631px) and (max-width:639px) {
+    html {
+        font-size: 88.19px;
+    }
+}
+
+@media (min-width:622px) and (max-width:630px) {
+    html {
+        font-size: 86.94px;
+    }
+}
+
+@media (min-width:613px) and (max-width:621px) {
+    html {
+        font-size: 85.69px;
+    }
+}
+
+@media (min-width:604px) and (max-width:612px) {
+    html {
+        font-size: 84.44px;
+    }
+}
+
+@media (min-width:595px) and (max-width:603px) {
+    html {
+        font-size: 83.19px;
+    }
+}
+
+@media (min-width:586px) and (max-width:594px) {
+    html {
+        font-size: 81.94px;
+    }
+}
+
+@media (min-width:577px) and (max-width:585px) {
+    html {
+        font-size: 80.69px;
+    }
+}
+
+@media (min-width:568px) and (max-width:576px) {
+    html {
+        font-size: 79.44px;
+    }
+}
+
+@media (min-width:559px) and (max-width:567px) {
+    html {
+        font-size: 78.19px;
+    }
+}
+
+@media (min-width:550px) and (max-width:558px) {
+    html {
+        font-size: 76.94px;
+    }
+}
+
+@media (min-width:541px) and (max-width:549px) {
+    html {
+        font-size: 75.69px;
+    }
+}
+
+@media (min-width:533px) and (max-width:540px) {
+    html {
+        font-size: 74.44px;
+    }
+}
+
+@media (min-width:524px) and (max-width:532px) {
+    html {
+        font-size: 73.33px;
+    }
+}
+
+@media (min-width:515px) and (max-width:523px) {
+    html {
+        font-size: 72.08px;
+    }
+}
+
+@media (min-width:506px) and (max-width:514px) {
+    html {
+        font-size:70.83px;
+    }
+}
+
+@media (min-width:497px) and (max-width:505px) {
+    html {
+        font-size:70px;
+    }
+}
+
+@media (min-width:488px) and (max-width:496px) {
+    html {
+        font-size: 68.33px;
+    }
+}
+
+@media (min-width:480px) and (max-width:487px) {
+    html {
+        font-size: 67.08px;
+    }
+}
+
+@media (min-width:471px) and (max-width:479px) {
+    html {
+        font-size: 65.97px;
+    }
+}
+
+@media (min-width:462px) and (max-width:470px) {
+    html {
+        font-size: 64.72px;
+    }
+}
+
+@media (min-width:453px) and (max-width:461px) {
+    html {
+        font-size: 63.47px;
+    }
+}
+
+@media (min-width:444px) and (max-width:452px) {
+    html {
+        font-size: 62.22px;
+    }
+}
+
+@media (min-width:435px) and (max-width:443px) {
+    html {
+        font-size: 60.97px;
+    }
+}
+
+@media (min-width:426px) and (max-width:434px) {
+    html {
+        font-size: 59.72px;
+    }
+}
+
+@media (min-width:417px) and (max-width:425px) {
+    html {
+        font-size: 58.47px;
+    }
+}
+
+@media (min-width:408px) and (max-width:416px) {
+    html {
+        font-size: 57.5px;
+    }
+}
+
+@media (min-width:400px) and (max-width:407px) {
+    html {
+        font-size: 55.97px;
+    }
+}
+
+@media (min-width:391px) and (max-width:399px) {
+    html {
+        font-size: 54.86px;
+    }
+}
+
+@media (min-width:382px) and (max-width:390px) {
+    html {
+        font-size: 53.61px;
+    }
+}
+
+@media (min-width:374px) and (max-width:381px) {
+    html {
+        font-size: 52.36px;
+    }
+}
+
+@media (min-width:365px) and (max-width:373px) {
+    html {
+        font-size: 51.25px;
+    }
+}
+
+@media (min-width:356px) and (max-width:364px) {
+    html {
+        font-size: 50px;
+    }
+}
+
+@media (min-width:347px) and (max-width:355px) {
+    html {
+        font-size: 48.75px;
+    }
+}
+
+@media (min-width:338px) and (max-width:346px) {
+    html {
+        font-size: 47.5px;
+    }
+}
+
+@media (min-width:329px) and (max-width:337px) {
+    html {
+        font-size: 46.25px;
+    }
+}
+
+@media (max-width:328px) {
+    html {
+        font-size: 44.44px;
+    }
+}
